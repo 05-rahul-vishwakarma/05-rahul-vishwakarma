@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **rahul930vishwakarma@gmail.com**
 
-- 📄 Know about my experiences [file:///home/rv/Downloads/RahulKumarResume%201.pdf](file:///home/rv/Downloads/RahulKumarResume%201.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

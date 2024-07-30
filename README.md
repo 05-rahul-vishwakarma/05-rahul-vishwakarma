@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **school-website**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **next,react**
 
